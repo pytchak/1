@@ -1,0 +1,7 @@
+F:\С#\Test_sql\Test_sql\bin\Debug\Test_sql.exe.config
+F:\С#\Test_sql\Test_sql\bin\Debug\Test_sql.exe
+F:\С#\Test_sql\Test_sql\bin\Debug\Test_sql.pdb
+F:\С#\Test_sql\Test_sql\obj\Debug\Test_sql.csprojResolveAssemblyReference.cache
+F:\С#\Test_sql\Test_sql\obj\Debug\Test_sql.exe
+F:\С#\Test_sql\Test_sql\obj\Debug\Test_sql.pdb
+F:\С#\Test_sql\Test_sql\bin\Debug\444.mdb
